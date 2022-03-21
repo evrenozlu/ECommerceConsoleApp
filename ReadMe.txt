@@ -1,0 +1,1 @@
+The database tables are cleaned every time the application is opened and the scenario files are read.
